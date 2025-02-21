@@ -1,0 +1,8 @@
+configuration {
+   modes: "window,run,drun";
+   show-icons: true;
+   icon-theme: "Papirus";
+}
+
+@theme "~/.config/rofi/rofi-themes/themes/tokyonight.rasi"
+

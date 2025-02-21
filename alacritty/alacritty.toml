@@ -1,0 +1,19 @@
+general.import = [ "tokyo-night-alacritty-theme/tokyo-night-storm.toml" ] # or tokyo-night-storm.toml 
+
+general.live_config_reload = true 
+
+[window]
+# position = {x=20, y=20}
+dynamic_padding = true
+padding = {x=4, y= 4}
+opacity = 0.75
+
+[font]
+normal = {family ="Code New Roman Nerd Font", style="normal"}
+
+[bell]
+animation = "EaseOut"
+duration = 1
+color = "#f7768e"
+
+
